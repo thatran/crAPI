@@ -1,0 +1,4 @@
+first_name,last_name,email,ssn,credit_card,passport
+John,Doe,john.doe@gmail.com,123-45-6789,4111-1111-1111-1111,A12345678
+Jane,Smith,jane.smith@yahoo.com,987-65-4321,5500-0000-0000-0004,L34456756
+Test,User,test.user@acmebank.com,321-54-9876,3400-000000-00009,A45671234
